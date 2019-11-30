@@ -11,7 +11,7 @@ Welcome to the Docker Delhi Meetup Community repo! This repo aims to centralize 
 
 
 
-[Docker Delhi Meetup #19: Docker, Kubernetes, IoT + Docker101 WorkShop - MobileIron](https://github.com/collabnix/dockerhyderabad/blob/master/slides/README.md)
+[Docker Delhi Meetup #19: Docker & K8s WorkShop - Xebian](https://github.com/collabnix/dockerhyderabad/blob/master/slides/README.md)
 
 
 # Docker Birthday Celebration - Blogs
