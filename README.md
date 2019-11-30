@@ -4,7 +4,7 @@ Welcome to the Docker Delhi Meetup Community repo! This repo aims to centralize 
 
 
 
- ![My Image](https://github.com/collabnix/dockerdelhi/blob/master/images/dockerdocker.png)
+ ![My Image](https://github.com/collabnix/dockerdelhi/blob/master/600_486903279.jpeg)
 
  
 # Upcoming Meetup | Conference
