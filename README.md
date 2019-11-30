@@ -25,7 +25,7 @@ Welcome to the Docker Delhi Meetup Community repo! This repo aims to centralize 
 
 #### [Docker Delhi Meetup](https://www.meetup.com/Docker-Delhi/)
 
-With around 3400+ community member, Docker Hyderabad Meetup group is one of the leading Docker meetup group in India.
+With around 1130+ community member, Docker Delhi Meetup group is one of the leading Docker meetup group in India.
 
 With a motto of "Learn, Collaborate & Dockerize!" you get chance to meet other developers and ops engineers in your community that are using and learning about Docker. Docker is an open platform that helps you build, ship and run applications anytime and anywhere. Developers use Docker to modify code and to streamline application development, while operations gain support to quickly and flexibly respond to their changing needs. Docker ensures agility, portability and control for all your distributed apps.
 
@@ -119,4 +119,4 @@ Follow us on [Twitter](https://twitter.com/bangaloredocker)
 A curated list of tutorials and resources produced by the community [tutorials](./curated-content.md)
 
 #### Submit Your Ideas
-Now you can submit ideas for Meetup. To submit, Click [here](https://github.com/collabnix/dockerbangalore/tree/master/ideas)
+Now you can submit ideas for Meetup. To submit, Click [here](https://github.com/collabnix/dockerdelhi/tree/master/ideas)
